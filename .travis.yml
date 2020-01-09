@@ -1,6 +1,6 @@
 langauage: python
 python:
-    -"3.9"
+    -"3.9.0a2"
 
 services:
     - docker
